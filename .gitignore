@@ -1,0 +1,46 @@
+# Arquivos temporários
+*.swp
+*.swo
+*.swn
+*~
+
+# Arquivos de log
+*.log
+
+
+# Ambiente virtual do Python (por exemplo, criado pelo virtualenv ou venv)
+venv/
+__pycache__/
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração locais (ex: .env)
+.env
+
+# Arquivos de build ou pacotes
+/build/
+/dist/
+*.zip
+*.tar.gz
+
+# Diretório do cache do npm
+.npm/
+
+# Diretório do cache do yarn
+.yarn/
+
+# Diretório .vscode para configurações do Visual Studio Code
+.vscode/
+
+# Dependendo do IDE ou editor que você usa, pode ser necessário adicionar arquivos/diretórios adicionais
+# para ignorar configurações específicas do seu ambiente de desenvolvimento.
+
+# Configurações de ambiente Python (ex: .python-version, .pyc)
+.python-version
+*.pyc
+
+
+# Dependendo do seu projeto, você pode precisar personalizar este arquivo para incluir/excluir
+# diretórios ou arquivos específicos de acordo com suas necessidades.
